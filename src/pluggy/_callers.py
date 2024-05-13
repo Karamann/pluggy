@@ -4,13 +4,7 @@ Call loop machinery
 
 from __future__ import annotations
 
-from typing import cast
-from typing import Generator
-from typing import Mapping
-from typing import NoReturn
-from typing import Sequence
-from typing import Tuple
-from typing import Union
+from typing import cast, Generator, Mapping, NoReturn, Sequence, Tuple, Union
 import warnings
 
 from ._hooks import HookImpl
